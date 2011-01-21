@@ -1,0 +1,12 @@
+body{background:#fff;margin:0;padding:0;font-family:Helvetica,Arial,sans-serif;color:#000;font-size:14px;font-weight:bold;}
+a{text-decoration:none;color:#333;}
+ul,li{margin:0px;padding:0px;display:block;list-style:none;}
+.head{padding:12px;color:#FFFFFF;background:#a1d3ff;display:block;}
+.title{padding:12px;color:#c9dbea;background:#4f8ac4;display:block;}
+.item{border-bottom:1px solid #ddd;padding:12px;}
+.gray{color:#666;}
+.footer{background:#E6E6E6;color:#666666;font-size: 12px;}
+.error{background:#FBE3E4;color:#8a1f11;border-color:#FBC2C4;}
+.success{background:#E6EFC2;color:#264409;border-color:#C6D880;}
+.error a{color:#8a1f11;}
+.success a{color:#264409;}
